@@ -1,0 +1,199 @@
+body {
+    background-color: dimgray;
+    margin: 30px;
+}
+
+hr {
+    color: steelblue;
+}
+
+.login-box {
+    width: 40%;
+    margin: 0 auto;
+    background-color: lightgray;
+    border-radius: 20px;
+    border: 3px solid steelblue;
+    padding: 20px;
+}
+
+.login-box h1{
+    text-align: center;
+}
+.login-box button {
+    margin: 0 auto;
+}
+
+.form-group input {
+    width: 80%;
+    border: 1px solid gray;
+}
+
+
+.search {
+    width: 80%;
+    margin: 0 auto;
+    border: 3px solid steelblue;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+.view {
+    width: 70%;
+    margin: 0 auto;
+    border: 3px solid steelblue;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+
+nav {
+    width: 40%;
+    text-align: center;
+    margin: auto;
+}
+
+.container-fluid {
+    text-align: center;
+    margin: auto;
+}
+
+.navbar-nav {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.navbar-nav li {
+    margin: auto;
+    text-align: center;
+}
+
+/*
+.container {
+	padding: 10px;
+    margin: 10px;
+	border: 1px solid blue;
+}
+
+td {
+    border: 1px dashed white;
+}
+
+hr {
+    clear:both;
+}
+
+.search {
+	width: 60%;
+	float: left;
+}
+
+.results {
+	color: white;
+}
+
+.checked-out {
+	width: 30%;
+	float: left;
+
+}
+
+#user {
+	 float: right; 
+	 clear: both;
+}
+
+#header {
+	text-align: center;
+}
+
+body,html {
+	background-color: #3b4b54; 
+    width : 100%;
+	height: 100%;
+	margin: 0 auto;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	color: #ffffff;
+}*/
+/*
+a {
+	text-decoration: none;
+	color: #00aed1;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.newappIcon {
+	padding-top: 10%;
+	display: block;
+	margin: 0 auto;
+	padding-bottom: 2em;
+	max-width:200px;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 2em;
+}
+
+.leftHalf {
+	float: left;
+	background-color: #26343f;
+	width: 45%;
+	height: 100%;
+}
+
+.rightHalf {
+	float: right;
+	width: 55%;
+	background-color: #313f4a;
+	height: 100%;
+	overflow:auto;
+}
+
+.description {
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.blue {
+	color: #00aed1;
+}
+
+
+table {
+	table-layout: fixed;
+	width: 800px;
+	margin: 0 auto;
+	word-wrap: break-word;
+	padding-top:10%;
+}
+
+th {
+	border-bottom: 1px solid #000;
+}
+
+th, td {
+	text-align: left;
+	padding: 2px 20px;
+}
+
+.env-var {
+	text-align: right;
+	border-right: 1px solid #000;
+	width: 30%;
+}
+
+pre {
+	padding: 0;
+	margin: 0;
+}
+
+*/
+
