@@ -1,5 +1,5 @@
-# Coding Samples
+Coding Samples
+==============
+These are small programming projects that I have worked on in classes. 
+They cover a variety of concepts and languages that I am familiar with.    
 
-These are projects from classes and side projects I have worked on. They showcase a portion of the wide variety of programming concepts and languages that I have worked with. 
-
-I plan to add in a short description for each project's readme. 
